@@ -1,4 +1,4 @@
-# 🎲 大富翁游戏 | Monopoly Game
+# 🎲 man bro 大富翁 | man bro Monopoly 
 
 <div align="center">
 
