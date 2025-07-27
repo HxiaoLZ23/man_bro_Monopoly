@@ -1,0 +1,5742 @@
+{
+  "width": 20,
+  "height": 20,
+  "cells": [
+    {
+      "cell_type": "empty",
+      "position": [
+        0,
+        0
+      ],
+      "path_index": 0,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        1,
+        75
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        1,
+        0
+      ],
+      "path_index": 1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        0,
+        2
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        2,
+        0
+      ],
+      "path_index": 2,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        1,
+        3
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        3,
+        0
+      ],
+      "path_index": 3,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        2,
+        4
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        4,
+        0
+      ],
+      "path_index": 4,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        3,
+        5
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        5,
+        0
+      ],
+      "path_index": 5,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        4,
+        6
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        6,
+        0
+      ],
+      "path_index": 6,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        5,
+        7
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        7,
+        0
+      ],
+      "path_index": 7,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        8,
+        6
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        8,
+        0
+      ],
+      "path_index": 8,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        9,
+        7
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        9,
+        0
+      ],
+      "path_index": 9,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        8,
+        10
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        10,
+        0
+      ],
+      "path_index": 10,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        9,
+        11
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        11,
+        0
+      ],
+      "path_index": 11,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        10,
+        12
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        12,
+        0
+      ],
+      "path_index": 12,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        11,
+        13
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        13,
+        0
+      ],
+      "path_index": 13,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        12,
+        14
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        14,
+        0
+      ],
+      "path_index": 14,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        13,
+        15
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        15,
+        0
+      ],
+      "path_index": 15,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        16,
+        14
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        16,
+        0
+      ],
+      "path_index": 16,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        17,
+        15
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        17,
+        0
+      ],
+      "path_index": 17,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        16,
+        18
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        18,
+        0
+      ],
+      "path_index": 18,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        17,
+        19
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        19,
+        0
+      ],
+      "path_index": 19,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        18,
+        20
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        0,
+        1
+      ],
+      "path_index": 75,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        0,
+        74
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        1
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        19,
+        1
+      ],
+      "path_index": 20,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        19,
+        21
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        0,
+        2
+      ],
+      "path_index": 74,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        73,
+        75
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        2
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        19,
+        2
+      ],
+      "path_index": 21,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        20,
+        22
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "jail",
+      "position": [
+        0,
+        3
+      ],
+      "path_index": 73,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        72,
+        74
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        3
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "jail",
+      "position": [
+        19,
+        3
+      ],
+      "path_index": 22,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        21,
+        23
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        0,
+        4
+      ],
+      "path_index": 72,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        73,
+        71
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        4
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        19,
+        4
+      ],
+      "path_index": 23,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        24,
+        22
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "bank",
+      "position": [
+        0,
+        5
+      ],
+      "path_index": 71,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        72,
+        70
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        5
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "bank",
+      "position": [
+        19,
+        5
+      ],
+      "path_index": 24,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        25,
+        23
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        0,
+        6
+      ],
+      "path_index": 70,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        69,
+        71
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        6
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        19,
+        6
+      ],
+      "path_index": 25,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        24,
+        26
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "bad_luck",
+      "position": [
+        0,
+        7
+      ],
+      "path_index": 69,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        68,
+        70
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        7
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        19,
+        7
+      ],
+      "path_index": 26,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        25,
+        27
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "dice_shop",
+      "position": [
+        0,
+        8
+      ],
+      "path_index": 68,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        67,
+        69
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        8
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "dice_shop",
+      "position": [
+        19,
+        8
+      ],
+      "path_index": 27,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        26,
+        28
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        0,
+        9
+      ],
+      "path_index": 67,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        66,
+        68
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        9
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        19,
+        9
+      ],
+      "path_index": 28,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        27,
+        29
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "shop",
+      "position": [
+        0,
+        10
+      ],
+      "path_index": 66,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        65,
+        67
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        10
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "shop",
+      "position": [
+        19,
+        10
+      ],
+      "path_index": 29,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        28,
+        30
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        0,
+        11
+      ],
+      "path_index": 65,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        64,
+        66
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        11
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        19,
+        11
+      ],
+      "path_index": 30,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        29,
+        31
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "dice_shop",
+      "position": [
+        0,
+        12
+      ],
+      "path_index": 64,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        65,
+        63
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        12
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "dice_shop",
+      "position": [
+        19,
+        12
+      ],
+      "path_index": 31,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        32,
+        30
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        0,
+        13
+      ],
+      "path_index": 63,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        64,
+        62
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        13
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "bad_luck",
+      "position": [
+        19,
+        13
+      ],
+      "path_index": 32,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        33,
+        31
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        0,
+        14
+      ],
+      "path_index": 62,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        61,
+        63
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        14
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        19,
+        14
+      ],
+      "path_index": 33,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        32,
+        34
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "bank",
+      "position": [
+        0,
+        15
+      ],
+      "path_index": 61,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        60,
+        62
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        15
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "bank",
+      "position": [
+        19,
+        15
+      ],
+      "path_index": 34,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        33,
+        35
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        0,
+        16
+      ],
+      "path_index": 60,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        59,
+        61
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        16
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        19,
+        16
+      ],
+      "path_index": 35,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        34,
+        36
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "jail",
+      "position": [
+        0,
+        17
+      ],
+      "path_index": 59,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        58,
+        60
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        17
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "jail",
+      "position": [
+        19,
+        17
+      ],
+      "path_index": 36,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        35,
+        37
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        0,
+        18
+      ],
+      "path_index": 58,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        57,
+        59
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        1,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        2,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        3,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        4,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        5,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        6,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        7,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        8,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        9,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        10,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        11,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        12,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        13,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        14,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        15,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        16,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        17,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "void",
+      "position": [
+        18,
+        18
+      ],
+      "path_index": -1,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        19,
+        18
+      ],
+      "path_index": 37,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        36,
+        38
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        0,
+        19
+      ],
+      "path_index": 57,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        56,
+        58
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        1,
+        19
+      ],
+      "path_index": 56,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        57,
+        55
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        2,
+        19
+      ],
+      "path_index": 55,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        56,
+        54
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "jail",
+      "position": [
+        3,
+        19
+      ],
+      "path_index": 54,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        53,
+        55
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        4,
+        19
+      ],
+      "path_index": 53,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        52,
+        54
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "bank",
+      "position": [
+        5,
+        19
+      ],
+      "path_index": 52,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        51,
+        53
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        6,
+        19
+      ],
+      "path_index": 51,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        50,
+        52
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "bad_luck",
+      "position": [
+        7,
+        19
+      ],
+      "path_index": 50,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        49,
+        51
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "dice_shop",
+      "position": [
+        8,
+        19
+      ],
+      "path_index": 49,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        48,
+        50
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        9,
+        19
+      ],
+      "path_index": 48,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        49,
+        47
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "shop",
+      "position": [
+        10,
+        19
+      ],
+      "path_index": 47,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        48,
+        46
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        11,
+        19
+      ],
+      "path_index": 46,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        45,
+        47
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "dice_shop",
+      "position": [
+        12,
+        19
+      ],
+      "path_index": 45,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        44,
+        46
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "luck",
+      "position": [
+        13,
+        19
+      ],
+      "path_index": 44,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        43,
+        45
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        14,
+        19
+      ],
+      "path_index": 43,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        42,
+        44
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "bank",
+      "position": [
+        15,
+        19
+      ],
+      "path_index": 42,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        41,
+        43
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        16,
+        19
+      ],
+      "path_index": 41,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        40,
+        42
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "jail",
+      "position": [
+        17,
+        19
+      ],
+      "path_index": 40,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        41,
+        39
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        18,
+        19
+      ],
+      "path_index": 39,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        40,
+        38
+      ],
+      "is_junction": false
+    },
+    {
+      "cell_type": "empty",
+      "position": [
+        19,
+        19
+      ],
+      "path_index": 38,
+      "property": null,
+      "roadblock": false,
+      "money_on_ground": 0,
+      "connections": [
+        37,
+        39
+      ],
+      "is_junction": false
+    }
+  ],
+  "path": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      2,
+      0
+    ],
+    [
+      3,
+      0
+    ],
+    [
+      4,
+      0
+    ],
+    [
+      5,
+      0
+    ],
+    [
+      6,
+      0
+    ],
+    [
+      7,
+      0
+    ],
+    [
+      8,
+      0
+    ],
+    [
+      9,
+      0
+    ],
+    [
+      10,
+      0
+    ],
+    [
+      11,
+      0
+    ],
+    [
+      12,
+      0
+    ],
+    [
+      13,
+      0
+    ],
+    [
+      14,
+      0
+    ],
+    [
+      15,
+      0
+    ],
+    [
+      16,
+      0
+    ],
+    [
+      17,
+      0
+    ],
+    [
+      18,
+      0
+    ],
+    [
+      19,
+      0
+    ],
+    [
+      19,
+      1
+    ],
+    [
+      19,
+      2
+    ],
+    [
+      19,
+      3
+    ],
+    [
+      19,
+      4
+    ],
+    [
+      19,
+      5
+    ],
+    [
+      19,
+      6
+    ],
+    [
+      19,
+      7
+    ],
+    [
+      19,
+      8
+    ],
+    [
+      19,
+      9
+    ],
+    [
+      19,
+      10
+    ],
+    [
+      19,
+      11
+    ],
+    [
+      19,
+      12
+    ],
+    [
+      19,
+      13
+    ],
+    [
+      19,
+      14
+    ],
+    [
+      19,
+      15
+    ],
+    [
+      19,
+      16
+    ],
+    [
+      19,
+      17
+    ],
+    [
+      19,
+      18
+    ],
+    [
+      19,
+      19
+    ],
+    [
+      18,
+      19
+    ],
+    [
+      17,
+      19
+    ],
+    [
+      16,
+      19
+    ],
+    [
+      15,
+      19
+    ],
+    [
+      14,
+      19
+    ],
+    [
+      13,
+      19
+    ],
+    [
+      12,
+      19
+    ],
+    [
+      11,
+      19
+    ],
+    [
+      10,
+      19
+    ],
+    [
+      9,
+      19
+    ],
+    [
+      8,
+      19
+    ],
+    [
+      7,
+      19
+    ],
+    [
+      6,
+      19
+    ],
+    [
+      5,
+      19
+    ],
+    [
+      4,
+      19
+    ],
+    [
+      3,
+      19
+    ],
+    [
+      2,
+      19
+    ],
+    [
+      1,
+      19
+    ],
+    [
+      0,
+      19
+    ],
+    [
+      0,
+      18
+    ],
+    [
+      0,
+      17
+    ],
+    [
+      0,
+      16
+    ],
+    [
+      0,
+      15
+    ],
+    [
+      0,
+      14
+    ],
+    [
+      0,
+      13
+    ],
+    [
+      0,
+      12
+    ],
+    [
+      0,
+      11
+    ],
+    [
+      0,
+      10
+    ],
+    [
+      0,
+      9
+    ],
+    [
+      0,
+      8
+    ],
+    [
+      0,
+      7
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      0,
+      5
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      2
+    ],
+    [
+      0,
+      1
+    ]
+  ],
+  "path_length": 76,
+  "junctions": []
+}

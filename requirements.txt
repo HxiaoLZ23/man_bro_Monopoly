@@ -1,0 +1,38 @@
+# 大富翁游戏 - 项目依赖
+# Monopoly Game - Project Dependencies
+
+# 核心游戏引擎
+pygame>=2.6.0              # 游戏引擎和图形渲染
+
+# 数据处理
+numpy>=1.21.0              # 数值计算和数组操作
+pillow>=8.0.0              # 图像处理和加载
+
+# 文件格式支持
+openpyxl>=3.0.0            # Excel文件读写支持
+
+# 网络通信
+websockets>=12.0           # WebSocket客户端/服务器通信
+
+# 开发和测试工具（可选）
+pytest>=7.0.0              # 单元测试框架
+pytest-asyncio>=0.21.0     # 异步测试支持
+
+# 注意：以下为Python内置模块，无需安装
+# - asyncio        (异步编程)
+# - tkinter        (GUI界面，地图编辑器使用)
+# - sqlite3        (数据库存储)
+# - json           (JSON数据处理)
+# - threading      (多线程支持)
+# - pathlib        (路径操作)
+# - datetime       (时间处理)
+# - logging        (日志记录)
+# - enum           (枚举类型)
+# - dataclasses    (数据类)
+# - typing         (类型注解)
+
+# 系统要求
+# Python >= 3.8
+# 操作系统: Windows 10+, macOS 10.14+, Linux (Ubuntu 18.04+)
+# 内存: 512MB RAM (推荐 1GB+)
+# 存储: 100MB 可用空间 
